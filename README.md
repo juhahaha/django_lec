@@ -1,2 +1,2 @@
-# djanho_lec
+# django_lec
 django project
